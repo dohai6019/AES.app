@@ -1,0 +1,25 @@
+# File build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Khoa AES va du lieu thu nghiem
+aes.key
+*.key
+encrypted.bin
+encrypted_*.bin
+decrypted.bin
+decrypted_*.bin
+test_large.bin
+test_1GB.bin
+
+# File du lieu thu nghiem
+input/
+output/
+
+# File ket qua thu nghiem
+ketqua_thu_nghiem.txt
